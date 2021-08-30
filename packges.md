@@ -46,11 +46,12 @@ Package can be loaded or imported by using the following syntaxes:-
 
    Best of all, Pendulum is designed to be a drop-in replacement for datetime. That means you can use it with code you’ve already written based on datetime. With only a few exceptions, Pendulum will work just as well, without the need to modify the code, while providing extra features not present in plain-old datetime. 
    
-   #### Syntax to install and import Pendulum package
-   pip install pendulum
-   import pendulum
+  
 3)  SciPy
    ![](sc.jpg)
+    #### Syntax to install and import Pendulum package
+   pip install pendulum
+   import pendulum
 
    
    SciPy is an open-source Python package which is used to solve scientific and mathematical problems. It is built on the NumPy extension and allows the user to manipulate and visualize data with a wide range of high-level commands. Both NumPy and SciPy are Python libraries used for used mathematical and numerical analysis. NumPy contains array data and basic operations such as sorting, indexing, etc whereas, SciPy consists of all the numerical code. Though NumPy provides a number of functions that can help resolve linear algebra, Fourier transforms, etc, SciPy is the library that actually contains fully-featured versions of these functions along with many others. As mentioned earlier, SciPy builds on NumPy and therefore if you import SciPy, there is no need to import NumPy.
