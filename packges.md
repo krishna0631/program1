@@ -49,7 +49,7 @@ Package can be loaded or imported by using the following syntaxes:-
    #### Syntax to install and import Pendulum package
    pip install pendulum
    import pendulum
-3) ### SciPy
+3)  SciPy
    ![](sc.jpg)
 
    
